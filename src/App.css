@@ -1,0 +1,69 @@
+    header{text-align: center; background-color: #006aff; color:white; line-height: 80px;}
+    main{ padding:50px;}
+    footer{background-color: black; color: white; line-height: 80px; text-align: center;}
+    #home, #goods, #books, #fruit, #question,#login,#register,#login2,#register2{text-decoration: none; color: white; font-weight: bold;}
+    button{cursor: pointer; border:none; color:white; background-color: #006aff; padding:3px;}
+    button:hover{color: white; background-color: #0195ff; }
+    form{text-align: center; margin: 0 auto; width:500px;} 
+    form p{margin:10px 0px;}
+    form input[type="text"],
+    form input[type="number"],
+    form input[type="tel"],
+    form input[type="email"] {
+      padding: 5px;
+      margin-left: 20px;
+    }
+    form{border: 1px solid #333; padding:20px; }
+    form button[type=submit]{width:100%; padding:10px; border-radius: 10px;}
+    body {
+      font-family: 'Pretendard Variable', sans-serif;
+    }
+    td {
+      border-bottom: 1px solid #333;
+      padding: 10px;
+      text-align: center;
+      vertical-align: middle;
+    }
+    h2{text-align: center;}
+    dl{border:1px solid black; width:500px; padding:20px; margin:10px 10px; }
+    dd{text-align: left;}
+    ul{border: 1px solid black; padding:20px; margin:10px 10px; width:500px;}
+    tr{height: 30px}
+    table{min-height:500px;}
+    th {
+      background-color: #006aff;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      border-bottom: 2px solid #333;
+    }
+    p{text-align: center; width:80px; margin:0 auto;}
+    *{padding:0px; margin:0px;}
+    table {
+      width: 1000px;
+      margin: 0 auto;
+      border-collapse: collapse;
+      border: 1px solid #333;
+      height: 250px;
+    }
+   #pagination{display: flex; justify-content: center; margin-top: 20px;}
+    
+    #form_title{padding: 30px 0px;}
+    .left_form, .right_form{width:40%;}
+    #text{margin-top:25px;}
+    #numbers{width:250px; margin:15px; margin:0 auto;}
+    #question form h2{color:#333;}
+    .left_form input{margin:10px 0px; padding:10px !important; border: none; border-bottom: 1px solid #333; background-color: none;}
+    .left_form input:focus{outline: none;}
+    #question form .right_form{float: right; top:0px;}
+    #question form label{color:#333;}
+    #question form p{width:269px;}
+    #question form{width:900px; height:500px; background-image: url('../public/images/img.png'); background-size:300px; background-repeat: no-repeat; background-position:320px 300px;}
+    .form_wrapper{display: flex; justify-content: space-around; margin-top:30px;}
+
+    .left_form p{text-align: left;}
+    .agree{position:relative;  top:100px; right: -282px;}
+    .agree input[type=submit]{margin-left:20px; padding:6px; background-color: rgb(0, 94, 255); border:none; color:whitesmoke;  cursor: pointer; border-radius: 5px;}
+    .idpw{width:250px;}
+    #login_img{width:60px; height:30px;}
+    #find{display: flex; width:300px;}

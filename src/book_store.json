@@ -1,0 +1,23 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"kdt"},
+{"type":"table","name":"book_store","database":"kdt","data":
+[
+{"CODE":"7","NAME":"11번가","ARENA1":"부산","ARENA2":"수영","ARENA3":"광안","BOOK_CNT":"10000","OWNER_NM":"최삽삽","TEL_NUM":"051-7234-5678"},
+{"CODE":"9","NAME":"YES24","ARENA1":"서울","ARENA2":"경기","ARENA3":"강원","BOOK_CNT":"5000","OWNER_NM":"김길동","TEL_NUM":"02-1111-3333"},
+{"CODE":"10","NAME":"YES24","ARENA1":"서울","ARENA2":"경기","ARENA3":"강원","BOOK_CNT":"5000","OWNER_NM":"김길동","TEL_NUM":"02-1111-3333"},
+{"CODE":"11","NAME":"YES24","ARENA1":"서울","ARENA2":"경기","ARENA3":"강원","BOOK_CNT":"5000","OWNER_NM":"김길동","TEL_NUM":"02-1111-3333"},
+{"CODE":"12","NAME":"YES24","ARENA1":"서울","ARENA2":"경기","ARENA3":"강원","BOOK_CNT":"5000","OWNER_NM":"김길동","TEL_NUM":"02-1111-3333"},
+{"CODE":"13","NAME":"리브로","ARENA1":"서울","ARENA2":"경기","ARENA3":"강원","BOOK_CNT":"3000","OWNER_NM":"김길동","TEL_NUM":"02-3575-6845"},
+{"CODE":"14","NAME":"리브로","ARENA1":"서울","ARENA2":"경기","ARENA3":"강원","BOOK_CNT":"3000","OWNER_NM":"김길동","TEL_NUM":"02-3575-6845"},
+{"CODE":"18","NAME":"YES24","ARENA1":"서울","ARENA2":"서초","ARENA3":"방배","BOOK_CNT":"10000","OWNER_NM":"정회원","TEL_NUM":"02-1234-5678"},
+{"CODE":"19","NAME":"교보문고","ARENA1":"강원","ARENA2":"동해","ARENA3":"심곡","BOOK_CNT":"11000","OWNER_NM":"나대연","TEL_NUM":"033-1234-5678"},
+{"CODE":"20","NAME":"알라딘","ARENA1":"경기","ARENA2":"성남","ARENA3":"분당","BOOK_CNT":"9000","OWNER_NM":"김상순","TEL_NUM":"031-3234-5687"},
+{"CODE":"21","NAME":"인터파크","ARENA1":"경남","ARENA2":"창원","ARENA3":"경화","BOOK_CNT":"8000","OWNER_NM":"장애인","TEL_NUM":"055-4327-4568"},
+{"CODE":"22","NAME":"리브로","ARENA1":"광주","ARENA2":"남구","ARENA3":"미정","BOOK_CNT":"12000","OWNER_NM":"박천민","TEL_NUM":"062-6245-6548"},
+{"CODE":"23","NAME":"G마켓","ARENA1":"제주","ARENA2":"서귀포","ARENA3":"미정","BOOK_CNT":"13000","OWNER_NM":"전세용","TEL_NUM":"064-3575-1575"},
+{"CODE":"24","NAME":"11번가","ARENA1":"부산","ARENA2":"수영","ARENA3":"광안","BOOK_CNT":"10000","OWNER_NM":"최삽삽","TEL_NUM":"051-7589-5228"},
+{"CODE":"26","NAME":"YES24","ARENA1":"경남","ARENA2":"성남","ARENA3":"방배","BOOK_CNT":"10000","OWNER_NM":"김상순","TEL_NUM":"02-1234-5678"}
+]
+}
+]
